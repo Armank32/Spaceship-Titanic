@@ -13,10 +13,10 @@ Our goal is to practice the full data science pipeline:
 5. Kaggle Submission & Reflection
 
 # Team Roles
-- Data Lead: Handles EDA, cleaning, feature creation
-- Modeling Lead: Builds/tunes ML models
-- Pipeline Lead: Builds full pipeline + submission
-- Documentation Lead: Creates final report & visuals
+- Data: Handles EDA, cleaning, feature creation
+- Modeling: Builds/tunes ML models
+- Pipeline: Builds full pipeline + submission
+- Documentation: Creates final report & visuals
 
 # Tech Stack
 - Python

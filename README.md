@@ -99,16 +99,15 @@ jupyter notebook
 ```
 
 Notes:
-The current notebook uses local file paths for the training and test CSV files. To run this project on another machine, update the file paths to match your local dataset location.
+- The current notebook uses local file paths for the training and test CSV files. To run this project on another machine, update the file paths to match your local dataset location.
 
 Future Improvements:
-Possible next steps for this project include:
-Hyperparameter tuning
-Cross validation
-Additional feature engineering
-Kaggle submission optimization
-Exporting the final prediction pipeline
-
+- Possible next steps for this project include:
+- Hyperparameter tuning
+- Cross validation
+- Additional feature engineering
+- Kaggle submission optimization
+- Exporting the final prediction pipeline
 
 
 
